@@ -17,6 +17,9 @@ This was done as part of the Product Design (EC601) course offered at Boston Uni
 - Image Upload and cloud storage
 - Notifications
 
+## Demo
+The can be viewed here https://sample-friendly-chat-app.firebaseapp.com 
+
 ## License
 
 Since the firebase's repository for FriendlyChat was used, the same license has been adopted. 
